@@ -23,7 +23,7 @@ const Services = () => {
       img={'/img6.png'}
       />
       <Service
-      title={"Disenos en Pelo"}
+      title={"Diseños en Pelo"}
       desc={"Los diseños en el cabello son una forma creativa de expresión personal que implica la creación de patrones, formas o imágenes en el cabello. Estos diseños se pueden lograr mediante técnicas de corte, afeitado o teñido, y son populares entre aquellos que buscan un estilo único y llamativo."}
       price={"$25"}
       img={'/img4.png'}
