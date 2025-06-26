@@ -3,7 +3,7 @@ import Service from '../components/service'
 
 const Services = () => {
   return (
-    <div className='services'>
+    <div id='services' className='services'>
       <Service
       title={"Recorte Con Tijeras"}
       desc={"Un corte de cabello con tijeras es un estilo clásico y versátil que se adapta a diferentes formas de rostro y tipos de cabello. Este método permite una mayor precisión y control en el corte, lo que resulta en un acabado más natural y personalizado."}
