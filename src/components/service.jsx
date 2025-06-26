@@ -7,7 +7,7 @@ const Service = ({title, desc, img, price}) => {
         <p className="service-desc">{desc}</p>
         <img src={img} alt="service" className="service-img"></img>
         <div className="service-price">{price}</div>
-        <button className='btn'>Reservar</button>
+        <button className='service-btn'>Reservar</button>
     </div>
   )
 }
